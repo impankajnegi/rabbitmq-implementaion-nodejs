@@ -11,5 +11,5 @@ use following command to run the publisher
 
 Run following comman for subscriber
 
-# npde subscriber.js
+# node subscriber.js
 
